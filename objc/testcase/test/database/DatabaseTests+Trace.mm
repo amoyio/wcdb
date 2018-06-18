@@ -89,7 +89,7 @@
 
 - (void)test_performance_trace
 {
-    int count = 1234;
+    int count = 12345;
     __block BOOL hit = NO;
     __block BOOL hit1 = NO;
     __block BOOL hit2 = NO;
